@@ -11,7 +11,7 @@
   "dependencies": {
     "@astrojs/cloudflare": "12.2.1",
     "@astrojs/tailwind": "5.1.5",
-    "astro": "5.1.10",
+    "astro": "5.15.6",
     "jsonwebtoken": "^9.0.2",
     "musickit-typescript": "^1.2.4",
     "tailwindcss": "^3.4.17"
